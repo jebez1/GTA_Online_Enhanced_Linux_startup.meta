@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--GTAOnlineLinux-->
+<CDataFileMgr__ContentsOfDataFileXml>
+ <disabledFiles />
+ <includedXmlFiles itemType="CDataFileMgr__DataFileArray" />
+ <includedDataFiles />
+ <dataFiles itemType="CDataFileMgr__DataFile">
+  <Item>
+   <filename>platform:/data/cdimages/scaleform_platform_pc.rpf</filename>
+   <fileType>RPF_FILE</fileType>
+   <registerAs />
+   <locked value="false" />
+   <loadCompletely value="false" />
+   <overlay value="false" />
+   <patchFile value="false" />
+   <disabled value="false" />
+   <persistent value="false" />
+   <enforceLsnSorting value="true" />
+   <contents />
+   <installPartition>PARTITION_NONE</installPartition>
+  </Item>
+  <Item>
+   <filename>platform:/data/cdimages/scaleform_frontend.rpf</filename>
+   <fileType>RPF_FILE_PRE_INSTALL</fileType>
+   <registerAs />
+   <locked value="false" />
+   <loadCompletely value="false" />
+   <overlay value="false" />
+   <patchFile value="false" />
+   <disabled value="false" />
+   <persistent value="false" />
+   <enforceLsnSorting value="true" />
+   <contents />
+   <installPartition>PARTITION_NONE</installPartition>
+  </Item>
+  <Item>
+   <filename>platform:/data/cdimages/scaleform_frontend_gen9.rpf</filename>
+   <fileType>RPF_FILE_PRE_INSTALL</fileType>
+   <registerAs />
+   <locked value="false" />
+   <loadCompletely value="false" />
+   <overlay value="false" />
+   <patchFile value="false" />
+   <disabled value="false" />
+   <persistent value="false" />
+   <enforceLsnSorting value="true" />
+   <contents />
+   <installPartition>PARTITION_NONE</installPartition>
+  </Item>
+  <Item>
+   <filename>platform:/levels/gta5/script/script.rpf</filename>
+   <fileType>RPF_FILE_PRE_INSTALL</fileType>
+   <registerAs />
+   <locked value="false" />
+   <loadCompletely value="false" />
+   <overlay value="false" />
+   <patchFile value="false" />
+   <disabled value="false" />
+   <persistent value="false" />
+   <enforceLsnSorting value="true" />
+   <contents />
+   <installPartition>PARTITION_NONE</installPartition>
+  </Item>
+ </dataFiles>
+ <contentChangeSets itemType="CDataFileMgr__ContentChangeSet" />
+ <patchFiles />
+ <allowedFolders />
+</CDataFileMgr__ContentsOfDataFileXml>
+<!--GTAOnlineLinux-->
