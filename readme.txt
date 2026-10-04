@@ -1,3 +1,3 @@
-This file allows to only join a public only-Linux-players session, it's https://github.com/klarraiov/GTAV-Enhanced-Public-Solo-Friend-Session with GTAOnlineLinux as tag, warning: a startup.meta owner & a non-owner can't play together.
+This file allows to only join a public only-Linux-players session, it's https://github.com/klarraiov/GTAV-Enhanced-Public-Solo-Friend-Session with GTAOnlineLinux as tag, warning: a startup.meta owner & a non-owner can't play together, "Linux Crew" members https://socialclub.rockstargames.com/crew/linux_crew/hierarchy likely use it.
 
 https://steamcommunity.com/groups/GTA_Online_Linux
